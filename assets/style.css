@@ -8,6 +8,78 @@ body {
     font-family: 'Montserrat', sans-serif;
 } 
 
-footer {
-    background-color: #f9f9f9;
+nav {
+    background-color: #7c7c7c;
+    color: #ebebeb;  
+}
+
+.jumbotron { 
+    margin-bottom: 0px;
+    background-color: #9b9b9b;
+    color: #ebebeb;
+    border-radius: 0px;
+} 
+
+a {
+    color: #ebebeb;
+} 
+
+.no-gutters {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    border-radius: 0px;
+    border: none;
+}
+
+.col-sm-4 {
+    border-left: 1px solid #9b9b9b;
+}
+
+#logo { 
+    height: 200px;
+    width: 200px;
+    margin-top: 30%;
+    margin-left: 22%;
+} 
+
+#logo:hover {
+    transform: rotate(20deg);
+}
+
+.about-me {  
+    padding: 50px;
+    background-color: #cedde7;
+    color: #525251; 
+}
+
+.about-me h1 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.contact-icons {
+    font-size: 21px;
+}
+
+.footer {
+    height: 55px;
+    padding-top: 15px;
+    background-color: #9b9b9b;
+    color: #ebebeb;
+}
+
+@media screen and (max-width: 576px) {
+
+    #logo {
+        margin-top: 10%;
+        margin-left: 30%;
+        margin-bottom: 2rem;
+    }
+
+    .col-sm-4 {
+        border-left: none;
+    }
 }
