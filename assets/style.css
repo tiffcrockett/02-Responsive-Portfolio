@@ -75,7 +75,6 @@ a {
     width: 100%;
     margin-bottom: 15px; 
     border: .5px solid #d3d3d3;
-    border-radius: 60px; 
 }
 
 .overlay {
@@ -90,7 +89,7 @@ a {
     transition: .5s ease;
     background-color: #cedde7; 
     border: .5px solid #9b9b9b;
-    border-radius: 60px;
+    border-radius: 5px;
 }
 
 .portfolio-image:hover .overlay {
@@ -117,6 +116,7 @@ a {
 }
 
 .btn:hover { 
+    background-color: #343636;
     color: #fff;
 }
 
