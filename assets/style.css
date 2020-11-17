@@ -38,13 +38,13 @@ a {
     border: none;
 }
 
-.col-sm-4 {
+.logo-area {
     border-left: 1px solid #9b9b9b;
 }
 
 #logo { 
-    height: 200px;
-    width: 200px;
+    height: 225px;
+    width: 225px;
     margin-top: 30%;
     margin-left: 22%;
 } 
@@ -57,6 +57,7 @@ a {
     padding: 50px;
     background-color: #cedde7;
     color: #525251; 
+    border-radius: 5px;
 }
 
 .about-me h1 {
@@ -64,15 +65,16 @@ a {
     padding-bottom: 15px;
 }
 
-.mb3 {
-    margin-bottom: 20px;
+#portfolio {
+    margin-left: 15%;
 }
 
-.card-img {
+.pfolio-img {
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 10px; 
+    margin-bottom: 15px;
 }
 
 .overlay {
@@ -106,11 +108,20 @@ a {
 
 .btn { 
     background-color: #cedde7;
-    color: #5525251; 
+    color: #525251; 
 }
 
-.contact-icons {
+.btn:hover { 
+    background-color: #b8d4e7;
+
+}
+
+.social-buttons {
     font-size: 21px;
+}
+
+.social-buttons:hover {
+    color: #cedde7
 }
 
 .footer {
@@ -129,7 +140,11 @@ a {
         margin-bottom: 2rem;
     }
 
-    .col-sm-4 {
+    .logo-area {
         border-left: none;
+    } 
+
+    #portfolio {
+        margin-left: 0;
     }
 }

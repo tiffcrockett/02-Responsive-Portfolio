@@ -25,7 +25,6 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" href="./index.html">Home <span class="sr-only">(current)</span></a>
             <a class="nav-link" href="./portfolio.html">Projects</a>
             <a class="nav-link" href="./contact.html">Contact</a>
             <!-- <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
@@ -39,17 +38,38 @@
       </header> 
 
         <!-- Main -->
-        <main> 
-          
-        </main>
+        <main class="contact-me">  
+          <div class="card greeting text-center">
+            <div class="card-body">
+              Thanks for visiting!<br>Feel free to contact me with any comments or<br>questions about my work or the content of this site.
+            </div> 
+          </div>
+          <div class="card" id="form-container">
+            <form>
+              <div class="form-group">
+                <label for="contact-form-name">Name</label>
+                  <input type="text" class="form-control" id="form-name" placeholder="Full Name">
+                  </div> 
+                  <div class="form-group">
+                    <label for="contact-form-email">Email address</label>
+                    <input type="email" class="form-control" id="contact-email" placeholder="name@example.com">
+                  </div> 
+                  <div class="form-group">
+                    <label for="contact-form-textarea">Message</label>
+                    <textarea class="form-control" id="form-textarea" rows="8"></textarea>
+                  </div> 
+                <button class="btn btn-secondary" type="submit">Submit form</button>
+                </div> 
+            </form>
+          </main> 
 
         <!--Footer  -->
         <div class="container footer"> 
           <div class="row">
-            <div class="col-sm-6 col-xs text-left">
+            <div class="col-7 text-left">
               &copy; 2020 All rights reserved.
             </div>  
-            <div class="col-sm-6 col-xs text-right">
+            <div class="col text-right">
               <div class="list-inline social-buttons">
                 <div class="list-inline-item contact-icons">
                   <a href="https://www.linkedin.com/in/tiffany-crockett-3217831a2/" target="_blank"><i class="fab fa-linkedin"></i></a>
