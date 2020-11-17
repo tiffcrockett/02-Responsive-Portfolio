@@ -28,11 +28,15 @@ a {
     color: #ebebeb;
 } 
 
-#gotop { 
+#topindx { 
     color: #525251;
-    margin-left: 60%;
-    font-size: small;
-    font-weight: bold;
+    font-size: 10px;
+}
+
+
+#topfolio { 
+    color: #525251;
+    font-size: 10px;
 }
 
 .no-gutters {
@@ -61,7 +65,7 @@ a {
 }
 
 .about-me {  
-    padding: 50px;
+    padding: 50px 50px 3px 50px;
     background-color: #cedde7;
     color: #525251; 
     border-radius: 5px;
