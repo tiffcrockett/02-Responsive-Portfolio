@@ -28,6 +28,13 @@ a {
     color: #ebebeb;
 } 
 
+#gotop { 
+    color: #525251;
+    margin-left: 60%;
+    font-size: small;
+    font-weight: bold;
+}
+
 .no-gutters {
     margin: 0;
     padding: 0;
@@ -132,7 +139,7 @@ a {
     height: auto;
     width: 90%;
     margin-bottom: 25px;
-}
+} 
 
 .footer {
     height: 55px;
