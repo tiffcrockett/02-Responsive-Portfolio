@@ -43,8 +43,8 @@ a {
 }
 
 #logo { 
-    height: 225px;
-    width: 225px;
+    height: 220px;
+    width: 220px;
     margin-top: 30%;
     margin-left: 22%;
 } 
@@ -70,10 +70,11 @@ a {
 }
 
 .pfolio-img {
-    display: block;
-    width: 80%;
-    height: 95%;
-    margin-bottom: 15px;
+    display: block; 
+    height: 85%;
+    width: 100%;
+    margin-bottom: 15px; 
+    border: .5px solid #d3d3d3;
     border-radius: 60px; 
 }
 
@@ -83,11 +84,12 @@ a {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 95%;
-    width: 80%;
+    height: 85%;
+    width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #cedde7;
+    background-color: #cedde7; 
+    border: .5px solid #9b9b9b;
     border-radius: 60px;
 }
 
@@ -98,6 +100,7 @@ a {
 .txt {
     color: #525251;
     font-size: 15px;
+    font-weight: bold;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -110,11 +113,11 @@ a {
 .btn { 
     background-color: #cedde7;
     color: #525251; 
+    border: .25px solid #7c7c7c;
 }
 
 .btn:hover { 
-    background-color: #b8d4e7;
-
+    color: #fff;
 }
 
 .social-buttons {
@@ -122,7 +125,13 @@ a {
 }
 
 .social-buttons:hover {
-    color: #cedde7
+    color: #cedde7;
+}
+
+#contact-me {  
+    height: auto;
+    width: 90%;
+    margin-bottom: 25px;
 }
 
 .footer {
@@ -147,5 +156,12 @@ a {
 
     #portfolio {
         margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .txt {
+        font-size: 22px;
     }
 }
