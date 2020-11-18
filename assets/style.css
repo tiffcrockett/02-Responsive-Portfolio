@@ -10,7 +10,6 @@ body {
 
 nav {
     background-color: #7c7c7c;
-    color: #ebebeb;  
     border-radius: 5px; 
 }
 
@@ -25,7 +24,7 @@ nav {
 }
 
 a {
-    color: #ebebeb;
+    color: #fff;
 } 
 
 #topindx { 
@@ -57,7 +56,7 @@ a {
     height: 220px;
     width: 220px;
     margin-top: 30%;
-    margin-left: 22%;
+    margin-left: 20%;
 } 
 
 #logo:hover {
@@ -74,6 +73,11 @@ a {
 .about-me h1 {
     text-align: center;
     padding-bottom: 15px;
+} 
+
+.pfolio-card {
+    border: 1px solid #9b9b9b;
+    border-radius: 5px;
 }
 
 #portfolio {
@@ -153,7 +157,7 @@ a {
     border-radius: 5px;
 }
 
-@media screen and (max-width: 576px) {
+@media (max-width: 576px) {
 
     #logo {
         margin-top: 10%;
@@ -170,9 +174,16 @@ a {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
 
     .txt {
         font-size: 22px;
+    }
+} 
+
+@media (min-width: 768px) {
+    
+    .pfolio-card {
+        border: none;
     }
 }
