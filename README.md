@@ -8,7 +8,9 @@ The entire site is fully functional. I could see future modifications including 
 
 Note:  I am currently a student (11/2020) and this is a class assignment.  The contact form does not forward.  However, the social media and email links in the footer do work. Feel free to reach out.
 
-![GitHub Logo](/images/portfolioScrnshot.png)
-Format: ![Alt Text](url)
+#Screenshot
+
+![images](https://github.com/tiffcrockett/02-Responsive-Portfolio/blob/3d9e35fd585291c18535511b54a7efe98d2be226/assets/images/portfolioScrnshot.png)
+
 
 #Link: https://tiffcrockett.github.io/02-Responsive-Portfolio/
