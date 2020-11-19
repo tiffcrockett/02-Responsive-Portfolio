@@ -7,3 +7,8 @@ I included an image of myself in the header.  In the About Me section, I explain
 The entire site is fully functional. I could see future modifications including having better graphics and color scheme, and obviously an expanded portfolio section as I complete more projects. 
 
 Note:  I am currently a student (11/2020) and this is a class assignment.  The contact form does not forward.  However, the social media and email links in the footer do work. Feel free to reach out.
+
+![GitHub Logo](/images/portfolioScrnshot.png)
+Format: ![Alt Text](url)
+
+#Link: https://tiffcrockett.github.io/02-Responsive-Portfolio/
