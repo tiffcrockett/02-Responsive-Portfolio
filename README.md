@@ -10,7 +10,7 @@ Note:  I am currently a student (11/2020) and this is a class assignment.  The c
 
 #Screenshot
 
-![images](https://github.com/tiffcrockett/02-Responsive-Portfolio/blob/3d9e35fd585291c18535511b54a7efe98d2be226/assets/images/ptfolioScrnshot.png)
+![images](https://github.com/tiffcrockett/02-Responsive-Portfolio/assets/images/ptfolioScrnshot.png)
 
 
 #Link: https://tiffcrockett.github.io/02-Responsive-Portfolio/
