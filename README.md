@@ -10,7 +10,7 @@ Note:  I am currently a student (11/2020) and this is a class assignment.  The c
 
 #Screenshot
 
-![mobile screenshot]()
+![mobile screenshot](https://github.com/tiffcrockett/02-Responsive-Portfolio/blob/main/assets/images/pfolio-scrn.png?)
 
 
 #Link: https://tiffcrockett.github.io/02-Responsive-Portfolio/
