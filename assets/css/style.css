@@ -133,7 +133,7 @@ a {
 .btn { 
     background-color: #cedde7;
     color: #525251; 
-    /* border: .25px solid #7c7c7c; */
+    border: .25px solid #7c7c7c;
 }
 
 .btn:hover { 
