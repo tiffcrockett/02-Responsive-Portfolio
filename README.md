@@ -6,7 +6,7 @@ There is an image of myself in the header.  The About Me section states a bit ab
 
 I could see future modifications including having better graphics and color scheme, and obviously an expanded portfolio as I complete more projects. 
 
-Note:  I am currently a student (11/2020) and this is a class assignment.  The contact form does not forward, however, the social media and email icons in the foote are linked. Feel free to reach out.
+Note:  I am currently a student and this is a class assignment.  The contact form does not forward, however, the social media and email icons in the foote are linked. Feel free to reach out.
 
 #Screenshot
 
