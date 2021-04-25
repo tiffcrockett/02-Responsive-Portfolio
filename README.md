@@ -13,4 +13,4 @@ Note:  I am currently a student and this is a class assignment.  The contact for
 ![mobile screenshot](https://github.com/tiffcrockett/02-Responsive-Portfolio/blob/main/assets/images/pfolio-scrn.png?)
 
 
-#Link: https://tiffcrockett.github.io/02-Responsive-Portfolio/
+#Link: https://tiffcrockett.github.io/first-portfolio/
